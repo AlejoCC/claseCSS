@@ -24,7 +24,6 @@ text-align: justify;
 .imagenfondo{
     background-image: url(img/medellin.jpg);
     height: 640px;
-    float: 640px;
     background-attachment: fixed;
 }
 .textorojo{
