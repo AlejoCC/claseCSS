@@ -1,0 +1,11 @@
+table{
+    border: 2px solid;
+}
+td{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 0%;
+}
+td:hover{
+    background-color: gray;
+}
