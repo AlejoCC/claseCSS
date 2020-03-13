@@ -1,7 +1,4 @@
-table{
-    border: 2px solid;
-}
-td{
+table,td{
     border: 2px solid;
     border-collapse: collapse;
     width: 0%;
